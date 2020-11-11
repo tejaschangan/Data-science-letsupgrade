@@ -1,0 +1,128 @@
+11/9/2020 FIRST DAY - Jupyter Notebook
+localhost:8888/notebooks/FIRST DAY.ipynb 2/5
+In [5]: #Question3:Program that takes Cost price and selling as Input and Displays whethe
+#Test case 1:
+costprice=30
+sellingprice=20
+if(costprice>sellingprice):
+ print("Profit")
+elif(sellingprice>costprice):
+ print("Loss")
+else:
+ print("Neither")
+#Test case 2:
+costprice=10
+sellingprice=20
+if(costprice>sellingprice):
+ print("Profit")
+elif(sellingprice>costprice):
+ print("Loss")
+else:
+ print("Neither")
+
+#Test case 3:
+costprice=20
+sellingprice=20
+if(costprice>sellingprice):
+ print("Profit")
+elif(sellingprice>costprice):
+ print("Loss")
+else:
+ print("Neither")
+#Test case 4:
+costprice=19
+sellingprice=19
+if(costprice>sellingprice):
+ print("Profit")
+elif(sellingprice>costprice):
+ print("Loss")
+else:
+ print("Neither")
+#Test case 5:
+costprice=7
+sellingprice=23
+if(costprice>sellingprice):
+ print("Profit")
+elif(sellingprice>costprice):
+ print("Loss")
+else:
+ print("Neither")
+#Test case 6:
+costprice=95
+sellingprice=19
+if(costprice>sellingprice):
+ print("Profit")
+11/9/2020 FIRST DAY - Jupyter Notebook
+localhost:8888/notebooks/FIRST DAY.ipynb 3/5
+In [6]:
+In [ ]:
+Profit
+Loss
+Neither
+Neither
+Loss
+Profit
+LETSUPGRADE
+elif(sellingprice>costprice):
+ print("Loss")
+else:
+ print("Neither")
+
+
+
+#Question2: To print Letsupgrade in Capital Letters
+print("LETSUPGRADE")
+11/9/2020 FIRST DAY - Jupyter Notebook
+localhost:8888/notebooks/FIRST DAY.ipynb 4/5
+In [1]:
+20
+1600
+50
+4000
+72
+5760
+7
+560
+35
+2800
+23
+1840
+95
+7600
+#Question4: Program that an amount in Indian Rupees as Input, where we need to Fi
+#TestCase1:
+num=int(input(""))
+output=num*80;
+print(output,"\n")
+#TestCase2:
+num=int(input(""))
+output=num*80;
+print(output,"\n")
+#TestCase3:
+num=int(input(""))
+output=num*80;
+print(output,"\n")
+#TestCase4:
+num=int(input(""))
+output=num*80;
+print(output,"\n")
+#TestCase5:
+num=int(input(""))
+output=num*80;
+print(output,"\n")
+#TestCase6:
+num=int(input(""))
+output=num*80;
+print(output)
+#TestCase7:
+num=int(input(""))
+output=num*80;
+print(output,"end")
+#TestCase8:
+num=int(input(""))
+output=num*80;
+print(output)
+11/9/2020 FIRST DAY - Jupyter Notebook
+localhost:8888/notebooks/FIRST DAY.ipynb 5/5
+18
+1440
